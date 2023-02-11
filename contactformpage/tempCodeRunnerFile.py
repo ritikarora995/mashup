@@ -1,0 +1,5 @@
+  # singer = input('Enter the name of the singer: ')
+    # n = int(input('Enter the number of videos to download (n > 10): '))
+    # y = int(input('Enter the number of seconds to cut from the beginning of each audio (y > 20): '))
+    # download_videos_and_convert_into_audio(singer, n)
+    # cut_first_y_sec(singer,n,y)
